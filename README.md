@@ -7,4 +7,4 @@ A dataset supporting "The Impact of Indigenous and Global Social Media Sentiment
 
 ## Citation
 If you use this dataset, please cite:
-Edeh, Uche (2025). African Democratic Election Prediction. GitHub. Dataset https://github.com/Uche2glo/African-Election-Prediction-s-Dataset/blob/main/Data%20X%20and%20Nairaland.csv
+Edeh, Uche (2025). African Democratic Election Prediction Dataset. https://doi.org/10.5281/zenodo.16915404
